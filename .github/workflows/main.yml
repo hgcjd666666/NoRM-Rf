@@ -6,9 +6,11 @@ on:
       android_version:
         description: 'Android Version (Kernel) (e.g., 14)'
         required: true
+        default: '14'
       kernel_version:
         description: 'Kernel Version (e.g., 6.1)'
         required: true
+        default: '6.1'
       driver_name:
         description: 'Driver Module Name (e.g., mydriver.ko)'
         required: true

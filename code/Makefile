@@ -1,1 +1,1 @@
-﻿obj-m += rwProcMem_module.o
+﻿obj-m += rmDataProc_module.o
